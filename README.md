@@ -8,6 +8,6 @@ A collective list of swimming clubs.
 
 ### United Kingdom
 
-| Name of Club | Membership Required? | Coordinates |
-| ------------ | -------------------- | ----------- |
-| Parogon | Yes | 53.0101654,-2.2194293 |
+| Club | Membership Required? | Coordinates |
+| ----- | -------------------- | ----------- |
+| [Parogon](https://parogon.com/) | Yes | 53.0101654,-2.2194293 |
