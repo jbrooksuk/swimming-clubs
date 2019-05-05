@@ -1,6 +1,6 @@
 # Swimming Clubs
 
-A collective list of swimming clubs.
+A collective list of swimming pools and clubs.
 
 ## Index
 
