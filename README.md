@@ -8,6 +8,6 @@ A collective list of swimming clubs.
 
 ### United Kingdom
 
-| Name of Club | Location |
-| ------------ | -------- |
-| Parogon      | Lat,Lng  |
+| Name of Club | Co-ordinates |
+| ------------ | ------------ |
+| Parogon      | 53.0101654,-2.2194293 |
